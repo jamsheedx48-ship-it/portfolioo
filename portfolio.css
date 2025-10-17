@@ -1,0 +1,30 @@
+
+
+.introsection{
+     height: 600px;
+  
+}
+img{
+    width: 230px;
+    height: 230px;
+    object-fit: cover;
+}
+.aboutdiv{
+    
+   margin-top: 150px;
+    padding-top: 60px;
+   
+
+}
+.navbar-brand{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.contactinfo{
+    border-radius: 30px;
+    margin-bottom: 100px;
+    
+}
+
